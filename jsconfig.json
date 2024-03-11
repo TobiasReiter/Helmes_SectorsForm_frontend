@@ -1,4 +1,6 @@
 {
+  "include": ["**/*.js", "**/*.jsx"],
+  "jsx": "react-jsx",
   "compilerOptions": {
     "paths": {
       "@/*": ["./*"]
