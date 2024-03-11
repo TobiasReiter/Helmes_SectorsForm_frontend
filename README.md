@@ -1,7 +1,7 @@
 ## Getting Started
 
-First, run npm install.
-Second, change .env file
+First, run npm install.<br/>
+Second, change .env file<br/>
 Third, run the development server:
 
 ```bash
